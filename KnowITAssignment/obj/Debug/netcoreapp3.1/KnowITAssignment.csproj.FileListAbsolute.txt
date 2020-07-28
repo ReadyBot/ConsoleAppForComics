@@ -1,0 +1,13 @@
+C:\temp\KnowITAssignment\KnowItAssignment\KnowITAssignment\bin\Debug\netcoreapp3.1\KnowITAssignment.deps.json
+C:\temp\KnowITAssignment\KnowItAssignment\KnowITAssignment\bin\Debug\netcoreapp3.1\KnowITAssignment.dll
+C:\temp\KnowITAssignment\KnowItAssignment\KnowITAssignment\bin\Debug\netcoreapp3.1\KnowITAssignment.pdb
+C:\temp\KnowITAssignment\KnowItAssignment\KnowITAssignment\obj\Debug\netcoreapp3.1\KnowITAssignment.csprojAssemblyReference.cache
+C:\temp\KnowITAssignment\KnowItAssignment\KnowITAssignment\obj\Debug\netcoreapp3.1\KnowITAssignment.AssemblyInfoInputs.cache
+C:\temp\KnowITAssignment\KnowItAssignment\KnowITAssignment\obj\Debug\netcoreapp3.1\KnowITAssignment.AssemblyInfo.cs
+C:\temp\KnowITAssignment\KnowItAssignment\KnowITAssignment\obj\Debug\netcoreapp3.1\KnowITAssignment.csproj.CoreCompileInputs.cache
+C:\temp\KnowITAssignment\KnowItAssignment\KnowITAssignment\obj\Debug\netcoreapp3.1\KnowITAssignment.dll
+C:\temp\KnowITAssignment\KnowItAssignment\KnowITAssignment\obj\Debug\netcoreapp3.1\KnowITAssignment.pdb
+C:\temp\KnowITAssignment\KnowItAssignment\KnowITAssignment\bin\Debug\netcoreapp3.1\KnowITAssignment.exe
+C:\temp\KnowITAssignment\KnowItAssignment\KnowITAssignment\bin\Debug\netcoreapp3.1\KnowITAssignment.runtimeconfig.json
+C:\temp\KnowITAssignment\KnowItAssignment\KnowITAssignment\bin\Debug\netcoreapp3.1\KnowITAssignment.runtimeconfig.dev.json
+C:\temp\KnowITAssignment\KnowItAssignment\KnowITAssignment\obj\Debug\netcoreapp3.1\KnowITAssignment.genruntimeconfig.cache

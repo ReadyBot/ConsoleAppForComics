@@ -1,0 +1,4 @@
+C:\temp\KnowITAssignment\KnowITAssignment\UnitTestKnowITAssignment\obj\Debug\netcoreapp3.1\UnitTestKnowITAssignment.csprojAssemblyReference.cache
+C:\temp\KnowITAssignment\KnowITAssignment\UnitTestKnowITAssignment\obj\Debug\netcoreapp3.1\UnitTestKnowITAssignment.AssemblyInfoInputs.cache
+C:\temp\KnowITAssignment\KnowITAssignment\UnitTestKnowITAssignment\obj\Debug\netcoreapp3.1\UnitTestKnowITAssignment.AssemblyInfo.cs
+C:\temp\KnowITAssignment\KnowITAssignment\UnitTestKnowITAssignment\obj\Debug\netcoreapp3.1\UnitTestKnowITAssignment.csproj.CoreCompileInputs.cache
